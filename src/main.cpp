@@ -5,7 +5,7 @@
 int main(){
     std::cout << "main.cpp\n";
     hello();
-    user("naem os the user");
+    user("name os the user");
 
     return 0;
 }
