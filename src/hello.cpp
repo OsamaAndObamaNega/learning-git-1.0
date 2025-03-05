@@ -1,8 +1,6 @@
 #include <iostream>
 
+{
 
-
-void hello(){
-
-    std::cout << "hello.cpp\n";
+    std::cout << "hello.cpp\n <hello> " << name << "somthing " << age << '\n';
 }
