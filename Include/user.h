@@ -1,3 +1,3 @@
 #include <iostream>
 
-void user();
+void user(std::string name);
