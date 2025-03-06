@@ -9,5 +9,9 @@ int main(){
 
     std::cout << "compile\n";
 
+
+    if(true){
+        std::cout << "hello";
+    }
     return 0;
 }
