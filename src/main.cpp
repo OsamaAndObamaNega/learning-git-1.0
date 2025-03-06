@@ -8,6 +8,10 @@ int main(){
     user("name os the user");
 
     std::cout << "compile\n";
+    //wokign on some part of the code
+    //code
+    //code 
+    // code . finish
 
 
     if(true){
