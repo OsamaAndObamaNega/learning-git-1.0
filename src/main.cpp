@@ -7,5 +7,7 @@ int main(){
     hello("man_o_war",23);
     user("name os the user");
 
+    std::cout << "compile\n";
+
     return 0;
 }
